@@ -6,6 +6,8 @@ public class GitTest {
         System.out.println("under first revision");
         System.out.println("hot-fix  Hello Git!");
         System.out.println("master test");
+        System.out.println("hot-fix  test!");
+
     }
 }
 
